@@ -8,14 +8,14 @@ This is a Microsoft Dynamics CRM Power Apps Canvas application in which a user c
 * Microsoft Sharepoint
 
 ## Features
-* Secure Sign in
-* Secure Register
-* Editable profile page
-* Request time off
-* Input validation
-* Time off calculator
-* Time off tracker
-* Secure logout
+* Added secure sign in
+* Added secure registering
+* Built Editable Profiles
+* Developed a way to request time off
+* Used validation for various inputs
+* Developed a time off calculator
+* Included a time off tracker
+* Added secure logout
 
 ## Potential Refactoring
 * PTO accrual for different deparments
